@@ -9,7 +9,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@cloudant/cloudant": "4.2.4",
-    "async": "2.1.4",
+    "async": "2.6.4",
     "cfenv": "1.0.3",
     "compression": "1.6.2",
     "express": "4.14.0",
